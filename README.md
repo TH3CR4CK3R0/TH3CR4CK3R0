@@ -33,7 +33,7 @@ TTTTTT  T:::::T  TTTTTT  H:::::H     H:::::H              3:::::3 C:::::C       
 ## 👨‍💻 **About Me**  
 🔒 **Cybersecurity Professional** | OSCP, CRTP, CRTS Certified  
 
-I'm a passionate penetration tester and programmer with expertise across multiple domains. My journey combines offensive security and full-stack development, giving me the ability to both **break and build** technology. If you're here, you're probably as curious as I am—so let's connect and grow together!  
+I'm a passionate penetration tester and programmer with expertise across multiple domains. My journey combines offensive security and full-stack development, giving me the ability to both **break and build** technology. If you're here, you're probably as curious as I am let's connect and grow together!  
 
 ---
 
